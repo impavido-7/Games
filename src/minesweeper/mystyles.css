@@ -1,0 +1,28 @@
+#cell {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    float: left;
+    margin: 0.5px;
+    color: blue;
+    background-color: yellowgreen;
+}
+
+#navBar {
+    width: 310px;
+    height: 40px;
+    margin: 10px;
+    line-height: 40px;
+    background-color: black;
+}
+
+#rulesButton {
+    margin-left: 200px;
+    background-color: wheat;
+}
+
+#rulesDiv {
+    width: 310px;
+    height: 310px;
+    background-color: yellowgreen;
+}

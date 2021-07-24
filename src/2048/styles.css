@@ -1,0 +1,25 @@
+#cell {
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    float: left;
+    margin: 0.5px;
+    /* background-color: yellowgreen; */
+}
+
+.again {
+    width: 180px;
+    height: 180px;
+    background-color: #C2B3A3;
+}
+
+#text {
+    margin-top: 45px;
+}
+
+#button {
+    margin-top: 20px;
+    background-color: lightblue;
+    padding: 10px;
+    border-radius: 10px;
+}

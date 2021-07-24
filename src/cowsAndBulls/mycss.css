@@ -1,0 +1,264 @@
+@media (max-width: 479px) {
+
+    #parent {
+        background-color: #282c34;
+        width: 100%;
+        padding: 10%;
+    } 
+
+    #parent_div_1{
+        width: 80%;
+        border: 1px solid black;
+        background-color: cornsilk;
+        margin: 10%;
+        color: black;
+    }
+
+    #inputID {
+        width: 80%;
+        margin: 5%;
+        vertical-align: middle;
+    }
+
+    #buttonID {
+        border-radius: 5px;
+        background-color: skyblue;
+        margin-bottom: 2%;
+    }
+
+    #parent_div_3 {
+        width: 80%;
+        background-color: cornsilk;
+        border: 1px solid black;
+        margin: 5%;
+        padding: 5%;
+        color: black;
+    }
+    
+    .topnav {
+        overflow: hidden;
+        background-color: cornsilk;
+        margin: 10%;
+        width: 80%;
+        height: 10%;
+    }
+    
+    #parent_div_2 {
+        width: 80%;
+        border: 1px solid black;
+        background-color: cornsilk;
+        overflow: auto;
+        margin: 10%;
+        color: black;
+    }
+
+    #tableStyles {
+        font-size: small;
+        margin: 5%;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+        padding: 2%;
+    } 
+    
+    table {
+        width: 90%;
+    }
+    
+    caption {
+        text-align: center;
+        padding: 3%; 
+        color: green;
+    }
+
+    #span {
+        background-color: darkblue;
+        color: wheat;
+    }
+
+}
+
+@media (min-width: 480px) and (max-width: 849px){
+    #parent {
+        background-color: #282c34;
+        width: 100%;
+        padding: 10%;
+    } 
+
+    #parent_div_1{
+        width: 80%;
+        border: 1px solid black;
+        background-color: cornsilk;
+        margin: 10%;
+        color: black;
+    }
+
+    #inputID {
+        width: 80%;
+        margin: 5%;
+        vertical-align: middle;
+    }
+
+    #buttonID {
+        border-radius: 5px;
+        background-color: skyblue;
+        margin-bottom: 2%;
+    }
+
+    #parent_div_3 {
+        width: 80%;
+        background-color: cornsilk;
+        border: 1px solid black;
+        margin: 5%;
+        padding: 5%;
+        color: black;
+    }
+    
+    .topnav {
+        overflow: hidden;
+        background-color: cornsilk;
+        margin-left: 10%;
+        width: 80%;
+        height: 10%;
+    }
+    
+    #parent_div_2 {
+        width: 80%;
+        border: 1px solid black;
+        background-color: cornsilk;
+        overflow: auto;
+        margin: 10%;
+        color: black;
+    }
+
+    #tableStyles {
+        font-size: small;
+        margin: 5%;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+        padding: 2%;
+    } 
+    
+    table {
+        width: 90%;
+    }
+    
+    caption {
+        text-align: center;
+        padding: 3%; 
+        color: green;
+    }
+
+    #span {
+        background-color: darkblue;
+        color: wheat;
+    }
+}
+
+@media (min-width: 850px) {
+    #parent {
+        background-color: #282c34;
+        width: 100%;
+        padding: 10%;
+        height: 290px;
+    }
+    
+    #parent_div_1{
+        width: 40%;
+        height: 250px;
+        border-top: 1px solid black;
+        border-bottom: 1px solid black;
+        border-left: 1px solid black;
+        border-right: 0.5px solid black;
+        background-color: cornsilk;
+        margin-left: 10%;
+        float: left;
+        color: black;
+    }
+    
+    #parent_div_3{
+        width: 60%;
+        height: 90px;
+        background-color: cornsilk;
+        border: 0.5px solid black;
+        margin-left: 10%;
+        float: left;
+        padding: 10%;
+        color: black;
+    }
+    
+    .topnav {
+        overflow: hidden;
+        background-color: cornsilk;
+        margin-left: 10%;
+        width: 80%;
+        height: 10%;
+    }
+    
+    #parent_div_2 {
+        width: 40%;
+        height: 250px;
+        border-top: 1px solid black;
+        border-bottom: 1px solid black;
+        border-right: 1px solid black;
+        background-color: cornsilk;
+        /* float: right; */
+        overflow: auto;
+        color: black;
+    }
+    
+    #inputID {
+        width: 80%;
+        margin-top: 15%;
+        vertical-align: middle;
+    }
+    
+    #span {
+        /* padding: 3%; */
+        margin-left: 80%;
+        background-color: darkblue;
+        color: wheat;
+    }
+    
+    #buttonID {
+        border-radius: 5px;
+        background-color: skyblue;
+        padding: 2%;
+    }
+    
+    #tableStyles {
+        font-size: small;
+        margin: 5%;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+        padding: 2%;
+    } 
+    
+    table {
+        width: 90%;
+    }
+    
+    
+    caption {
+        text-align: center;
+        padding: 3%; 
+        color: green;
+    }
+}

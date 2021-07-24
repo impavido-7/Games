@@ -1,0 +1,32 @@
+#cell {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    float: left;
+    color: black;
+    background-color: whitesmoke;
+}
+
+.numButton {
+    border-radius: 50%;
+    float: left;
+    border: 3px solid black;
+    margin: 3px;
+    padding: 10px;
+}
+
+#header {
+    width: 303px;
+    height: 303px;
+    background-color: whitesmoke;
+}
+
+#success {
+    background-color: gray;
+    outline: none;
+}
+
+/* #block {
+    width: 350px;
+    height: 312px;
+} */
